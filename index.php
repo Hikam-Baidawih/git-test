@@ -5,5 +5,6 @@
     echo"HALO NAMA AKU {$nama} <br>";
     echo"AKU BERUMUR {$umur} <br>";
     echo"AKU SUKA {$makanan} <br>";
+    echo"aku tidak suka pepaya";
     
 ?>
