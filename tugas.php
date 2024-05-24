@@ -1,4 +1,4 @@
 <?php
-  $tugas = array("asd", "basdat");
+  $tugas = array("asd", "basdat", "gamtek");
 
 ?>
