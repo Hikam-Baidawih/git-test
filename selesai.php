@@ -1,5 +1,5 @@
 <?php
 
-    $selesai = array("sensor", "ranglis", "tarpen");
+    $selesai = array("sensor", "ranglis", "tarpen", "Indo");
 
 ?>
