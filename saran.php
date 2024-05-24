@@ -1,6 +1,7 @@
 <?php
 
-    echo"mending desainnya dibagusin";
+    echo"mending desainnya dibagusin <br>";
+    echo "kayaknya bakalan bagus kalo pake tailwind";
 
 
 ?>
